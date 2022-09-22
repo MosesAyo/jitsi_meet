@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.gunschu.jitsi_meet">
+  package="com.gunschu.jitsi_meet"
+  android:exported="true">
     <application>
         <activity
             android:name=".JitsiMeetPluginActivity"
